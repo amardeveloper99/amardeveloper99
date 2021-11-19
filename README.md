@@ -1,0 +1,4 @@
+- hello my name is amar
+- i am a full stack developer and bug bounty hunter
+- i love creating websites and python projects in my free time
+- you can find me via amarelriany@gmail.com
